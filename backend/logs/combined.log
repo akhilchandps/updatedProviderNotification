@@ -51,38 +51,89 @@
 {"level":"info","message":"✅ Email sent to sarah.johnson@example.com","timestamp":"2025-03-31T11:29:04.241Z"}
 {"level":"info","message":"✅ Email sent to michael.brown@example.com","timestamp":"2025-03-31T11:29:08.350Z"}
 {"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T11:29:11.825Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:45:36.141Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:47:04.837Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:48:27.212Z"}
-{"level":"info","message":"✅ Email sent to john.doe@example.com","timestamp":"2025-03-31T16:49:11.185Z"}
-{"level":"info","message":"✅ Email sent to jane.smith@example.com","timestamp":"2025-03-31T16:49:14.973Z"}
-{"level":"info","message":"✅ Email sent to robert.brown@example.com","timestamp":"2025-03-31T16:49:18.148Z"}
-{"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T16:49:21.323Z"}
-{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-03-31T16:49:24.291Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:49:27.276Z"}
-{"level":"info","message":"✅ Email sent to john.doe@example.com","timestamp":"2025-03-31T17:09:19.456Z"}
-{"level":"info","message":"✅ Email sent to robert.brown@example.com","timestamp":"2025-03-31T17:09:22.591Z"}
-{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-03-31T17:09:25.763Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:09:29.148Z"}
-{"level":"info","message":"System downtime notification sent to 4 verified providers.","timestamp":"2025-03-31T17:09:29.149Z"}
-{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:11:27.139Z"}
-{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:13:52.090Z"}
-{"level":"info","message":"Fetched notification ID: 12","timestamp":"2025-03-31T17:14:08.944Z"}
-{"level":"error","message":"Error fetching notification ID notifications: invalid input syntax for type integer: \"notifications\"","timestamp":"2025-03-31T17:17:17.846Z"}
-{"level":"error","message":"Fetching notification ID notifications failed: invalid input syntax for type integer: \"notifications\"","timestamp":"2025-03-31T17:17:17.846Z"}
-{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:17:26.040Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:17:47.936Z"}
-{"level":"info","message":"Notification ID 12 deleted and provider notified.","timestamp":"2025-03-31T17:17:47.939Z"}
-{"level":"info","message":"Fetched 11 notifications.","timestamp":"2025-03-31T17:18:18.423Z"}
-{"level":"info","message":"Fetched 11 notifications.","timestamp":"2025-03-31T17:20:51.175Z"}
-{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:21:50.666Z"}
-{"level":"info","message":"Notification ID 1 deleted and provider notified.","timestamp":"2025-03-31T17:21:50.670Z"}
-{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:05:02.821Z"}
-{"level":"info","message":"Notification ID 10 marked as read.","timestamp":"2025-04-01T03:08:29.313Z"}
-{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:08:38.901Z"}
-{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:10:56.845Z"}
-{"level":"info","message":"Notification ID 11 marked as read.","timestamp":"2025-04-01T03:11:23.093Z"}
-{"level":"info","message":"Fetched notification ID: 11","timestamp":"2025-04-01T03:11:38.448Z"}
-{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-04-01T03:11:55.390Z"}
-{"level":"info","message":"Notification ID 11 deleted and provider notified.","timestamp":"2025-04-01T03:11:55.391Z"}
-{"level":"info","message":"Fetched 9 notifications.","timestamp":"2025-04-01T03:12:02.945Z"}
+{"level":"info","message":"Received request to book consultation for patient ID 1","timestamp":"2025-04-01T03:29:19.707Z"}
+{"level":"info","message":"Booking consultation for patient 1 on 2025-04-02 at 10:00 AM","timestamp":"2025-04-01T03:29:19.711Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-04-01T03:29:25.328Z"}
+{"level":"info","message":"Consultation booked successfully for patient 1","timestamp":"2025-04-01T03:29:25.329Z"}
+{"level":"info","message":"Request received to delete consultation ID 1","timestamp":"2025-04-01T03:30:15.155Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-04-01T03:30:19.393Z"}
+{"level":"info","message":"Consultation ID 1 deleted successfully.","timestamp":"2025-04-01T03:30:19.394Z"}
+{"level":"info","message":"Received request to book consultation for patient ID 1","timestamp":"2025-04-01T05:13:37.928Z"}
+{"level":"info","message":"Booking consultation for patient 1 on 2025-04-02 at 10:00 AM","timestamp":"2025-04-01T05:13:37.929Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-04-01T05:13:41.612Z"}
+{"level":"info","message":"Consultation booked successfully for patient 1","timestamp":"2025-04-01T05:13:41.612Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-04-01T05:15:49.609Z"}
+{"level":"info","message":"✅ Email sent to akshajalves22@gmail.com","timestamp":"2025-04-01T05:15:52.951Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu514@gmail.com","timestamp":"2025-04-01T05:15:58.185Z"}
+{"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-04-01T05:16:01.549Z"}
+{"level":"info","message":"✅ Email sent to daniel.wilson@example.com","timestamp":"2025-04-01T05:16:04.754Z"}
+{"level":"info","message":"✅ Email sent to sophia.martinez@example.com","timestamp":"2025-04-01T05:16:07.893Z"}
+{"level":"info","message":"Creating billing record for provider ID: 1","timestamp":"2025-04-01T06:37:05.543Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:37:05.561Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:37:05.562Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:41:21.831Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:41:21.835Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:41:21.836Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:41:23.249Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:41:23.251Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:41:23.252Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:42:08.988Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:08.995Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:08.995Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:42:38.883Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:38.889Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:38.889Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:42:39.731Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:39.733Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:42:39.733Z"}
+{"level":"info","message":"Fetched 4 billing records.","timestamp":"2025-04-01T06:46:26.058Z"}
+{"level":"info","message":"Fetched 1 billing records for provider ID: 1","timestamp":"2025-04-01T06:46:45.743Z"}
+{"level":"info","message":"Billing record updated: 1","timestamp":"2025-04-01T06:47:10.640Z"}
+{"level":"error","message":"Error in updateBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:47:10.645Z"}
+{"level":"error","message":"Updating billing record failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:47:10.645Z"}
+{"level":"error","message":"Error in deleteBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:47:24.860Z"}
+{"level":"error","message":"Deleting billing record failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:47:24.860Z"}
+{"level":"info","message":"Creating billing record for provider ID: 1","timestamp":"2025-04-01T06:48:54.215Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:48:54.230Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:48:54.231Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:52:13.250Z"}
+{"level":"error","message":"Error in createBilling: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:52:13.257Z"}
+{"level":"error","message":"Billing creation failed: column \"taxonomy\" does not exist","timestamp":"2025-04-01T06:52:13.257Z"}
+{"level":"info","message":"Creating billing record for provider ID: 3","timestamp":"2025-04-01T06:57:51.437Z"}
+{"level":"error","message":"Error in createBilling: Provider not found","timestamp":"2025-04-01T06:57:51.453Z"}
+{"level":"error","message":"Billing creation failed: Provider not found","timestamp":"2025-04-01T06:57:51.453Z"}
+{"level":"info","message":"Creating billing record for provider ID: 1","timestamp":"2025-04-01T06:58:01.987Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T06:58:05.520Z"}
+{"level":"info","message":"Creating billing record for provider ID: 1","timestamp":"2025-04-01T06:58:30.563Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T06:58:34.599Z"}
+{"level":"info","message":"Fetched 2 billing records.","timestamp":"2025-04-01T06:58:44.332Z"}
+{"level":"info","message":"Fetched 2 billing records for provider ID: 1","timestamp":"2025-04-01T06:58:58.745Z"}
+{"level":"info","message":"Billing record updated: 1","timestamp":"2025-04-01T06:59:14.189Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T06:59:17.097Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T06:59:36.754Z"}
+{"level":"info","message":"Billing record deleted: 1","timestamp":"2025-04-01T06:59:36.767Z"}
+{"level":"info","message":"Fetched 0 notifications.","timestamp":"2025-04-01T06:59:43.603Z"}
+{"level":"error","message":"Sending failure notification failed: notificationService.sendFailureNotification is not a function","timestamp":"2025-04-01T07:00:14.712Z"}
+{"level":"error","message":"Sending failure notification failed: notificationService.sendFailureNotification is not a function","timestamp":"2025-04-01T07:01:18.353Z"}
+{"level":"error","message":"Sending failure notification failed: notificationService.sendFailureNotification is not a function","timestamp":"2025-04-01T07:03:36.671Z"}
+{"level":"error","message":"Sending failure notification failed: notificationService.sendFailureNotification is not a function","timestamp":"2025-04-01T07:03:51.304Z"}
+{"level":"error","message":"Sending failure notification failed: notificationService.sendFailureNotification is not a function","timestamp":"2025-04-01T07:03:58.535Z"}
+{"level":"error","message":"Error sending system notification: sendEmailNotification is not a function","timestamp":"2025-04-01T07:05:48.050Z"}
+{"level":"error","message":"Sending failure notification failed: sendEmailNotification is not a function","timestamp":"2025-04-01T07:05:48.051Z"}
+{"level":"error","message":"Error sending system notification: sendEmailNotification is not a function","timestamp":"2025-04-01T07:06:00.839Z"}
+{"level":"error","message":"Sending failure notification failed: sendEmailNotification is not a function","timestamp":"2025-04-01T07:06:00.840Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:07:39.747Z"}
+{"level":"info","message":"System downtime notification sent to 1 verified providers.","timestamp":"2025-04-01T07:07:39.753Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:08:02.392Z"}
+{"level":"info","message":"System downtime notification sent to 1 verified providers.","timestamp":"2025-04-01T07:08:02.395Z"}
+{"level":"info","message":"Fetched 4 notifications.","timestamp":"2025-04-01T07:08:08.896Z"}
+{"level":"error","message":"Error fetching notification ID 1: Notification not found","timestamp":"2025-04-01T07:09:01.555Z"}
+{"level":"error","message":"Fetching notification ID 1 failed: Notification not found","timestamp":"2025-04-01T07:09:01.555Z"}
+{"level":"info","message":"Fetched 4 notifications.","timestamp":"2025-04-01T07:09:12.898Z"}
+{"level":"info","message":"Fetched notification ID: 3","timestamp":"2025-04-01T07:09:24.628Z"}
+{"level":"info","message":"Notification ID 3 marked as read.","timestamp":"2025-04-01T07:09:50.421Z"}
+{"level":"info","message":"Fetched 4 notifications.","timestamp":"2025-04-01T07:09:58.722Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:10:19.195Z"}
+{"level":"info","message":"Notification ID 3 deleted and provider notified.","timestamp":"2025-04-01T07:10:19.195Z"}
+{"level":"error","message":"Error deleting notification ID 3: Notification not found","timestamp":"2025-04-01T07:10:21.330Z"}
+{"level":"error","message":"Deleting notification ID 3 failed: Notification not found","timestamp":"2025-04-01T07:10:21.331Z"}
