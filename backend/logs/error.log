@@ -37,3 +37,7 @@
 {"level":"error","message":"Fetching notification ID 1 failed: Notification not found","timestamp":"2025-04-01T07:09:01.555Z"}
 {"level":"error","message":"Error deleting notification ID 3: Notification not found","timestamp":"2025-04-01T07:10:21.330Z"}
 {"level":"error","message":"Deleting notification ID 3 failed: Notification not found","timestamp":"2025-04-01T07:10:21.331Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: connect EHOSTUNREACH 172.253.118.108:465","timestamp":"2025-04-01T07:28:22.901Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: connect ENETUNREACH 172.253.118.108:465 - Local (0.0.0.0:0)","timestamp":"2025-04-01T07:28:33.378Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: getaddrinfo EAI_AGAIN smtp.gmail.com","timestamp":"2025-04-01T07:29:42.101Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: getaddrinfo EAI_AGAIN smtp.gmail.com","timestamp":"2025-04-01T07:30:06.922Z"}

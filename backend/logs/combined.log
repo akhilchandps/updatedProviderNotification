@@ -137,3 +137,24 @@
 {"level":"info","message":"Notification ID 3 deleted and provider notified.","timestamp":"2025-04-01T07:10:19.195Z"}
 {"level":"error","message":"Error deleting notification ID 3: Notification not found","timestamp":"2025-04-01T07:10:21.330Z"}
 {"level":"error","message":"Deleting notification ID 3 failed: Notification not found","timestamp":"2025-04-01T07:10:21.331Z"}
+{"level":"info","message":"Creating billing record for provider ID: 1","timestamp":"2025-04-01T07:25:53.126Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:25:56.050Z"}
+{"level":"info","message":"Fetched 2 billing records.","timestamp":"2025-04-01T07:26:03.442Z"}
+{"level":"info","message":"Fetched 2 billing records for provider ID: 1","timestamp":"2025-04-01T07:26:15.758Z"}
+{"level":"info","message":"Billing record updated: 2","timestamp":"2025-04-01T07:26:57.850Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:27:01.689Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-04-01T07:27:33.535Z"}
+{"level":"info","message":"Billing record deleted: 2","timestamp":"2025-04-01T07:27:33.551Z"}
+{"level":"info","message":"Fetched 3 notifications.","timestamp":"2025-04-01T07:27:40.139Z"}
+{"level":"info","message":"Fetched notification ID: 4","timestamp":"2025-04-01T07:27:54.245Z"}
+{"level":"info","message":"Notification ID 4 marked as read.","timestamp":"2025-04-01T07:28:04.656Z"}
+{"level":"info","message":"Fetched notification ID: 4","timestamp":"2025-04-01T07:28:11.446Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: connect EHOSTUNREACH 172.253.118.108:465","timestamp":"2025-04-01T07:28:22.901Z"}
+{"level":"info","message":"Notification ID 4 deleted and provider notified.","timestamp":"2025-04-01T07:28:22.902Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: connect ENETUNREACH 172.253.118.108:465 - Local (0.0.0.0:0)","timestamp":"2025-04-01T07:28:33.378Z"}
+{"level":"info","message":"System downtime notification sent to 1 verified providers.","timestamp":"2025-04-01T07:28:33.378Z"}
+{"level":"info","message":"Fetched 3 notifications.","timestamp":"2025-04-01T07:29:30.922Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: getaddrinfo EAI_AGAIN smtp.gmail.com","timestamp":"2025-04-01T07:29:42.101Z"}
+{"level":"info","message":"Notification ID 8 deleted and provider notified.","timestamp":"2025-04-01T07:29:42.101Z"}
+{"level":"error","message":"❌ Error sending email to akhilchandps@gmail.com: getaddrinfo EAI_AGAIN smtp.gmail.com","timestamp":"2025-04-01T07:30:06.922Z"}
+{"level":"info","message":"System downtime notification sent to 1 verified providers.","timestamp":"2025-04-01T07:30:06.923Z"}
