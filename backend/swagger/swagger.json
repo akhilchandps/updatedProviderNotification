@@ -1146,7 +1146,7 @@
       }
     }
   },
-  "/api/notification/{id}/mark-as-read": {
+  "/api/notification/{id}/mark-read": {
     "put": {
       "summary": "Mark a notification as read",
       "description": "Updates the status of a notification to 'read'",
@@ -1190,7 +1190,7 @@
       }
     }
   },
-  "/api/notification/system-downtime": {
+  "/api/notification/failure-notification": {
     "post": {
       "summary": "Send system downtime notification",
       "description": "Sends a system downtime notification to all providers",

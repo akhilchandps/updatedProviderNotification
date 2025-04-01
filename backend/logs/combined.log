@@ -42,3 +42,47 @@
 {"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T05:39:46.522Z"}
 {"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T05:55:01.237Z"}
 {"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T06:09:08.860Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-03-31T11:24:38.096Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-03-31T11:25:46.649Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-03-31T11:26:15.111Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu21@gmail.com","timestamp":"2025-03-31T11:28:52.570Z"}
+{"level":"info","message":"✅ Email sent to akshajalves22@gmail.com","timestamp":"2025-03-31T11:28:56.349Z"}
+{"level":"info","message":"✅ Email sent to akshajbabu514@gmail.com","timestamp":"2025-03-31T11:29:00.146Z"}
+{"level":"info","message":"✅ Email sent to sarah.johnson@example.com","timestamp":"2025-03-31T11:29:04.241Z"}
+{"level":"info","message":"✅ Email sent to michael.brown@example.com","timestamp":"2025-03-31T11:29:08.350Z"}
+{"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T11:29:11.825Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:45:36.141Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:47:04.837Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:48:27.212Z"}
+{"level":"info","message":"✅ Email sent to john.doe@example.com","timestamp":"2025-03-31T16:49:11.185Z"}
+{"level":"info","message":"✅ Email sent to jane.smith@example.com","timestamp":"2025-03-31T16:49:14.973Z"}
+{"level":"info","message":"✅ Email sent to robert.brown@example.com","timestamp":"2025-03-31T16:49:18.148Z"}
+{"level":"info","message":"✅ Email sent to emily.davis@example.com","timestamp":"2025-03-31T16:49:21.323Z"}
+{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-03-31T16:49:24.291Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T16:49:27.276Z"}
+{"level":"info","message":"✅ Email sent to john.doe@example.com","timestamp":"2025-03-31T17:09:19.456Z"}
+{"level":"info","message":"✅ Email sent to robert.brown@example.com","timestamp":"2025-03-31T17:09:22.591Z"}
+{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-03-31T17:09:25.763Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:09:29.148Z"}
+{"level":"info","message":"System downtime notification sent to 4 verified providers.","timestamp":"2025-03-31T17:09:29.149Z"}
+{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:11:27.139Z"}
+{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:13:52.090Z"}
+{"level":"info","message":"Fetched notification ID: 12","timestamp":"2025-03-31T17:14:08.944Z"}
+{"level":"error","message":"Error fetching notification ID notifications: invalid input syntax for type integer: \"notifications\"","timestamp":"2025-03-31T17:17:17.846Z"}
+{"level":"error","message":"Fetching notification ID notifications failed: invalid input syntax for type integer: \"notifications\"","timestamp":"2025-03-31T17:17:17.846Z"}
+{"level":"info","message":"Fetched 12 notifications.","timestamp":"2025-03-31T17:17:26.040Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:17:47.936Z"}
+{"level":"info","message":"Notification ID 12 deleted and provider notified.","timestamp":"2025-03-31T17:17:47.939Z"}
+{"level":"info","message":"Fetched 11 notifications.","timestamp":"2025-03-31T17:18:18.423Z"}
+{"level":"info","message":"Fetched 11 notifications.","timestamp":"2025-03-31T17:20:51.175Z"}
+{"level":"info","message":"✅ Email sent to akhilchandps@gmail.com","timestamp":"2025-03-31T17:21:50.666Z"}
+{"level":"info","message":"Notification ID 1 deleted and provider notified.","timestamp":"2025-03-31T17:21:50.670Z"}
+{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:05:02.821Z"}
+{"level":"info","message":"Notification ID 10 marked as read.","timestamp":"2025-04-01T03:08:29.313Z"}
+{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:08:38.901Z"}
+{"level":"info","message":"Fetched 10 notifications.","timestamp":"2025-04-01T03:10:56.845Z"}
+{"level":"info","message":"Notification ID 11 marked as read.","timestamp":"2025-04-01T03:11:23.093Z"}
+{"level":"info","message":"Fetched notification ID: 11","timestamp":"2025-04-01T03:11:38.448Z"}
+{"level":"info","message":"✅ Email sent to michael.wilson@example.com","timestamp":"2025-04-01T03:11:55.390Z"}
+{"level":"info","message":"Notification ID 11 deleted and provider notified.","timestamp":"2025-04-01T03:11:55.391Z"}
+{"level":"info","message":"Fetched 9 notifications.","timestamp":"2025-04-01T03:12:02.945Z"}
